@@ -1,5 +1,8 @@
 _repo: An-altruist_73201
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73201-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Ouida
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1204
     wikipedia: https://en.wikipedia.org/wiki/Ouida
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73201#An-altruist
 gutenberg_issued: '2024-03-19'
 gutenberg_type: Text
 identifiers:
